@@ -7,5 +7,5 @@ When you activate the hotkeys (Indicated in the .AHK file), it will either incri
 # How to use:
 I configured OBS to load the datafile as a text element on screen, which allows you to have a dynamic text element on stream.
 
-# Sofrtware requirements:
+# Software requirements:
 Latest version of autohotkey! Latest version of Python (3), Put all of the files in a folder and it'll "just werk™", NOTE: you can have seperate folders for seperate games, other counters.
