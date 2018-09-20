@@ -4,13 +4,13 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 !^up::
-Run python "inc.py"
+Run pythonw "inc.pyw"
 Return
 
 !^down::
-Run python "dec.py"
+Run python "dec.pyw"
 Return
 
 !^+right::
-Run python "res.py"
+Run python "res.pyw"
 Return
