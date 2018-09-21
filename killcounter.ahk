@@ -8,9 +8,9 @@ Run pythonw "inc.pyw"
 Return
 
 !^down::
-Run python "dec.pyw"
+Run pythonw "dec.pyw"
 Return
 
-!^+right::
-Run python "res.pyw"
+!^left::
+Run pythonw "res.pyw"
 Return
